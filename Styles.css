@@ -153,7 +153,7 @@ body {
 
     <title> My Ampi town </title>
 
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href=".styles.css" />
 
   </head>
 
@@ -183,13 +183,13 @@ body {
 
             <li class="store-name">
 
-              <a class="store-link" href="./snooze.html"> The Snooze Inn </a>
+              <a class="store-link" href=".snooze.html"> The Snooze Inn </a>
 
             </li>
 
             <li class="store-name">
 
-              <a class="store-link" href="#">Zzz Hotel</a>
+              <a class="store-link" href=".zzz hotel.html">Zzz Hotel</a>
 
             </li>
 
@@ -213,13 +213,13 @@ body {
 
             <li class="store-name">
 
-              <a class="store-link" href="#">Just Cookies</a>
+              <a class="store-link" href=".just cookies.html">Just Cookies</a>
 
             </li>
 
             <li class="store-name">
 
-              <a class="store-link" href="#">Cake Too</a>
+              <a class="store-link" href=".cake too.html">Cake Too</a>
 
             </li>
 
@@ -243,13 +243,13 @@ body {
 
             <li class="store-name">
 
-              <a class="store-link" href="#">Puppy Parade</a>
+              <a class="store-link" href=".puppy parade.html">Puppy Parade</a>
 
             </li>
 
             <li class="store-name">
 
-              <a class="store-link" href="#">Cool Kittens</a>
+              <a class="store-link" href=".cool kittens.html">Cool Kittens</a>
 
             </li>
 
